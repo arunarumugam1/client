@@ -1,0 +1,23 @@
+.homeimage{
+    background-image:url("bg5.jpg");
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh;
+    
+    
+}
+.profile{
+    height:40vh;
+    width:25vw;
+   
+
+}
+.aboutimage{
+    opacity: 60%;
+   background-color: black;
+   border-radius: 10%;
+   height: 60vh;
+   display: block;
+
+}

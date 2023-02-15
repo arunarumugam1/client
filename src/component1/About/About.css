@@ -1,0 +1,9 @@
+.bgdark{
+    /* background-color: black; */
+    background-image: linear-gradient(to right,#234a91,#912077)
+}
+.deve{
+    border-radius: 30%;
+    background-color:rgb(148, 148, 148);
+    ;
+}
